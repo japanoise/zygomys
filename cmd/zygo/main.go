@@ -6,7 +6,7 @@ package main
 import (
 	"flag"
 	"fmt"
-	"github.com/glycerine/zygomys/zygo"
+	"github.com/japanoise/zygomys/zygo"
 	"os"
 )
 
